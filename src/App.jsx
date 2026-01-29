@@ -1,5 +1,4 @@
 
-import About from './Components/About'
 import { useState } from 'react'
 import Navbar from './Components/Navbar'
 import TextForm from './Components/TextForm'
